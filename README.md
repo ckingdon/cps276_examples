@@ -1,3 +1,7 @@
+#### FFR: Forked For Reference
+This is one of several repos I've found while searching across the web for help with various technical hurdles. Sometimes I come across a repo that's so good that I'm going to preserve it in my own account for future reference (FFR, forked for reference, filed for reference, for future reference)
+#
+
 # cps276_examples
 These are the examples from my cps276 class on PHP.  The actual course notes explain what the examples do in more detail.  To access the course you must be enrolled in the CPS276 class at Washtenaw Community College.
 
